@@ -1,0 +1,12 @@
+.div{
+    width: 700px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    margin-top: 70px;
+    background-color: #4c83ef;
+    font-family:sans-serif;
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+    height: 300px;
+    padding-top: 70px ;
+}
